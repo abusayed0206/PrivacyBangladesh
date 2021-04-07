@@ -1,11 +1,3 @@
-# Gatsby Starter Glass
-
-A Minimal & Beautiful Gatsby Personal Blog Starter With Nice Glassmorphism UI.
-
-[View Live Demo](https://gatsbyglass.netlify.app)
-
-![demo site screenshot](./screenshot.png)
-
 ## Features
 
 Fully responsive
