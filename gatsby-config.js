@@ -1,27 +1,27 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Glass`,
+    title: `Privacy Bangladesh`,
     author: {
-      name: `Yinka Adedire`,
-      summary: `Self-taught front-end web dev. JAMStack.`,
+      name: `Abu Sayed`,
+      summary: `A boy from earth in search of transparency on online privacy`,
     },
-    description: `A minimal & beautiful gatsby personal blog starter with a nice glassmorphism UI.`,
-    siteUrl: `https://gatsbyglass.netlify.app`,
+    description: `Privacy Bangladesh a website aiming to help peoples of Bangladesh to understand about privacy,law enforcment about privacy and many more security related stuff!`,
+    siteUrl: `https://privacybangladesh.netlify.app`,
     social: {
-      twitter: `yinkakun`,
+      twitter: `abusayed0206`,
     },
     socialLinks: [
       {
         name: 'github',
-        url: 'https://github.com',
+        url: 'https://github.com/abusayed0206',
       },
       {
         name: 'twitter',
-        url: 'https://twitter.com',
+        url: 'https://twitter.com/abusayed0206',
       },
       {
         name: 'instagram',
-        url: 'https://instagram.com',
+        url: 'https://instagram.com/lr_sayed',
       },
     ],
   },

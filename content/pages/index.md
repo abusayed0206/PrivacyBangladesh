@@ -3,6 +3,6 @@ template: 'index-template'
 title: 'Gatsby Starter Glass'
 ---
 
-#Hello World
+#PRIVACY BANGLADESH
 
-A minimal & beautiful gatsby personal blog starter with nice glassmorphism UI.
+Where Privacy Matters! 
